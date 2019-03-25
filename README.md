@@ -1,11 +1,13 @@
 Polan Shooter
+===
+![poland](./src/E1.jpg)
 
-Äá¼v¾÷Â^¨úª±®aÁy³¡§@¬°¹CÀ¸¨¤¦â
-¦b"frame"µe­±½d³ò¤º°»´úÂÅ¦â±±¨î¨¤¦â²¾°Ê
-«ö"m"¶}©l¹CÀ¸
-"ªÅ¥ÕÁä"µo®g¤l¼uÀ»¸¨©Çª«¡AÀ»¸¨©Ò¦³©Çª«Åã¥Ü"You Win"
-¸I¨ì©Çª«·|¦©¦å¡A¦å¶qÂk¹sÅã¥Ü"Game Over"
+- æ”å½±æ©Ÿæ“·å–ç©å®¶è‡‰éƒ¨ä½œç‚ºéŠæˆ²è§’è‰²
+- åœ¨"frame"ç•«é¢ç¯„åœå…§åµæ¸¬è—è‰²æ§åˆ¶è§’è‰²ç§»å‹•
+- æŒ‰"m"é–‹å§‹éŠæˆ²
+- "ç©ºç™½éµ"ç™¼å°„å­å½ˆæ“Šè½æ€ªç‰©ï¼Œæ“Šè½æ‰€æœ‰æ€ªç‰©é¡¯ç¤º"You Win"
+- ç¢°åˆ°æ€ªç‰©æœƒæ‰£è¡€ï¼Œè¡€é‡æ­¸é›¶é¡¯ç¤º"Game Over"
 
 
-¹Ï¤ù¨Ó·½¡G
-"Game Over"¡G https://i.ytimg.com/vi/QEeqQxDPzug/maxresdefault.jpg
+åœ–ç‰‡ä¾†æºï¼š
+"Game Over"ï¼š https://i.ytimg.com/vi/QEeqQxDPzug/maxresdefault.jpg
